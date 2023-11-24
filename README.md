@@ -30,15 +30,15 @@ Study Sphere is a mobile application designed to facilitate collaborative studyi
 
 ## Screenshots
 
-![Study Sphere App images](projectImages\qemu-system-x86_64_aZBMWjb9ib.png)
-![Study Sphere App images](projectImages\qemu-system-x86_64_cLaXl8TTad.png)
-![Study Sphere App images](projectImages\qemu-system-x86_64_dgmL1Xxyi1.png)
-![Study Sphere App images](projectImages\qemu-system-x86_64_e0wUyD22Je.png)
-![Study Sphere App images](projectImages\qemu-system-x86_64_ErGSFvaBCY.png)
-![Study Sphere App images](projectImages\qemu-system-x86_64_g0ybdESVwH.png)
-![Study Sphere App images](projectImages\qemu-system-x86_64_NBM6uYbYZz.png)
-![Study Sphere App images](projectImages\qemu-system-x86_64_XVTOivOvBr.png)
-![Study Sphere App images](projectImages\qemu-system-x86_64_zw3Z9Pq6oU.png)
+![Study Sphere App images](./projectImages/qemu-system-x86_64_aZBMWjb9ib.png)
+![Study Sphere App images](./projectImages/qemu-system-x86_64_cLaXl8TTad.png)
+![Study Sphere App images](./projectImages/qemu-system-x86_64_dgmL1Xxyi1.png)
+![Study Sphere App images](./projectImages/qemu-system-x86_64_e0wUyD22Je.png)
+![Study Sphere App images](./projectImages/qemu-system-x86_64_ErGSFvaBCY.png)
+![Study Sphere App images](./projectImages/qemu-system-x86_64_g0ybdESVwH.png)
+![Study Sphere App images](./projectImages/qemu-system-x86_64_NBM6uYbYZz.png)
+![Study Sphere App images](./projectImages/qemu-system-x86_64_XVTOivOvBr.png)
+![Study Sphere App images](./projectImages/qemu-system-x86_64_zw3Z9Pq6oU.png)
 
 ## Technologies Used
 
